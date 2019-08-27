@@ -13,3 +13,9 @@ If your on linux and would like to use it, you can compile the source code your 
 I couldn't find any open source TCPR client for KAG, so i made my own, so other people can use it.
 
 
+# Todo
+- Make text stick to the bottom of the console
+- Add colours?
+- Add quit commands
+- Let you save servers to quickly connect back
+- Don't let the program crash if server is not found
