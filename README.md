@@ -1,3 +1,4 @@
+<p align = 'center'> [Inset picture here] </p>
 <p align = 'center'> Messenger Chicken </p>
 
 # What is this?
