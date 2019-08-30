@@ -1,8 +1,11 @@
 [package]
 name = "messenger_chicken"
 version = "0.1.0"
-authors = ["Vamist <Vamist@protonmail.com>"]
-edition = "2018"
+authors = ["Vamist <Vamist@protonmail.com>", "João Wiciuk <joaowiciuk@hotmail.com>"]
+edition = "2019"
+license = "MIT"
+readme = "README.md"
+keywords = ["TCPR", "client", "KAG", "game", "remote", "server", "admin"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
